@@ -34,7 +34,7 @@ export default (state =initialState,action) =>{
                 loading:true
             }
         case TECHS_ERROR:
-            console.error(Action.payload)
+            console.error(action.payload)
             return{
                 ...state,
                 error:action.payload,
