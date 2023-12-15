@@ -1,2 +1,2 @@
-It-logger project
-allows users of an it company to keep logs of different issues
+IT-logger project
+allows users of an IT company to keep logs of different issues
