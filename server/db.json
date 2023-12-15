@@ -1,0 +1,85 @@
+{
+  "logs": [
+    {
+      "id": 2,
+      "message": "Fixed hard drive on workstation 002",
+      "attention": false,
+      "tech": "Sara Wilson",
+      "date": "2023-12-14T18:36:51.823Z"
+    },
+    {
+      "id": 3,
+      "message": "1122 wireless fixed",
+      "attention": false,
+      "tech": "John DOe",
+      "date": "2023-12-14T18:35:16.480Z"
+    },
+    {
+      "id": 4,
+      "message": "Workstation 026 is up and running",
+      "attention": false,
+      "tech": "Sara Wilson",
+      "date": "2019-05-31T19:57:35.544Z"
+    },
+    {
+      "id": 5,
+      "message": "hello world",
+      "attention": true,
+      "tech": "John DOe",
+      "date": "2023-12-14T18:35:41.951Z"
+    },
+    {
+      "id": 6,
+      "message": "fixed 002 ssd",
+      "attention": false,
+      "tech": "person name",
+      "date": "2023-12-15T04:40:53.926Z"
+    },
+    {
+      "message": "please fix",
+      "attention": true,
+      "tech": "person name",
+      "date": "2023-12-15T04:41:15.038Z",
+      "id": 7
+    },
+    {
+      "message": "fixed 002 harddisk",
+      "attention": true,
+      "tech": "Sam Smith",
+      "date": "2023-12-15T05:10:09.621Z",
+      "id": 8
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Doe"
+    },
+    {
+      "id": 2,
+      "firstName": "Sam",
+      "lastName": "Smith"
+    },
+    {
+      "id": 3,
+      "firstName": "Sara",
+      "lastName": "Wilson"
+    },
+    {
+      "firstName": "Test",
+      "lastName": "hello",
+      "id": 7
+    },
+    {
+      "firstName": "test",
+      "lastName": "vaz",
+      "id": 8
+    },
+    {
+      "firstName": "new",
+      "lastName": "tech",
+      "id": 9
+    }
+  ]
+}
